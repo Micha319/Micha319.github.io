@@ -1,3 +1,9 @@
 body{background-color:#EAFEFF;}
 header{background-color:#24ACB2;}
 header{text-align:center;}
+header{
+  color:white;
+  height:400px;
+}
+
+
