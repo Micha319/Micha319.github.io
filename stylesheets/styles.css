@@ -1,9 +1,11 @@
 body{background-color:#EAFEFF;}
-header{background-color:#24ACB2;}
+header{background-color:#24ACB2;
+    height:400px;
+}
 header{text-align:center;}
 header{
   color:white;
-  height:400px;
+
 }
 
 
